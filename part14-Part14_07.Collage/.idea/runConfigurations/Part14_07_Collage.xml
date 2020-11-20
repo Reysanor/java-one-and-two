@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part14_07.Collage" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="collage.CollageApplication" />
+    <module name="Part14_07.Collage" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

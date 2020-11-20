@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part08_03.LiquidContainers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="LiquidContainers" />
+    <module name="Part08_03.LiquidContainers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
